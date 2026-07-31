@@ -1,4 +1,4 @@
-# CLAUDE.md
+# 本项目由claude code整理而成.md
 
 Aerodynamic analysis toolkit: 2D airfoil → 3D wing → propeller → flight dynamics.
 
